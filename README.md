@@ -32,7 +32,7 @@ Career path and job recommender/
 1. **Clone the repository** (or download the folder):
 
    ```bash
-   git clone https://github.com/yourusername/career-job-recommender.git
+   git clone https://github.com/ZaidRauf11/career-job-recommender.git
    cd career-job-recommender
    ```
 
